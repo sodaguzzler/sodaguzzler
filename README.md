@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sodaguzzler
 - 👀 I’m interested in: video games, technology, coffee 
-- 🌱 I’m currently learning: PostgresSQL, SWIFT and Azure. Thank 
+- 🌱 I’m currently learning: PostgresSQL, SWIFT and Azure.
 - 💞️ I’m looking to collaborate on Anything,: I can learn from.
 - 📫 How to reach me:
 - 📧 Sodaguzzler@lhschool.net
